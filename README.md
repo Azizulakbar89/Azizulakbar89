@@ -14,12 +14,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,)](https://skillicons.dev)
 
-<!-- #### My Contact
-
-![https://www.instagram.com/azizullbar](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://github.com/Azizulakbar89](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://scholar.google.com/citations?hl=en&user=wDX2JDYAAAAJ](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white) ![https://www.linkedin.com/in/ananda-azizul-akbar-5bab51331](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizulakbar89&hide=contribs,prs,show_icons=true&theme=material-palenight) -->
-
 ### 📊 GitHub Stats:
 
 <div align="center">
@@ -36,7 +30,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-### Play With Me
+### Play Games With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azizulakbar89/azizulakbar89/output/pacman-contribution-graph-dark.svg">
